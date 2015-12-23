@@ -1,59 +1,57 @@
 <section id="services">
-<!-- Page Content -->
-{% for post in site.posts reversed %}
-  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    <!-- Page Content -->
+    {% for post in site.posts reversed %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
-
         <div class="container">
-
-            <div class="row">
-                <div class="col-lg-12 col-sm-12 center">
-                    <h2 class="section-heading">{{ post.title }}</h2>
-                </div>
-                <!-- <div class="clearfix"></div> -->
-                <div class="col-lg-4 col-md-4 col-sm-6 project-box">box1
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 project-box">box2
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 project-box">box3
-                </div>
-                <button class="btn btn-default btn-lg">More Projects</button>
-
+            <h2 class="section-heading">{{ post.title }}</h2>
+            <div class="project-square">box1
             </div>
-
+            <div class="project-square">box2
+            </div>
+            <div class="project-square">box3
+            </div>
+            <!-- /.container -->
         </div>
         <hr>
-        <!-- /.container -->
 
     </div>
+
     <!-- /.content-section-a -->
     {% else %}
 
     <div class="content-section-b">
-
-        <div class="container center">
-        <h2 class="section-heading">{{ post.title }}</h2>
-
-            <div class="row">
-            <div class="col-lg-2 col-md-4 col-sm-6 life-box">box1
+        <div class="container">
+            <h2 class="section-heading">{{ post.title }}</h2>
+            <div class="life-square">box1
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6 life-box">box2
+            <div class="life-square">box2
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6 life-box">box3
+            <div class="life-square">box3
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6 life-box">box4
+            <div class="life-square">box4
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6 life-box">box5
+            <div class="life-square">box5
             </div>
-            <div class="col-lg-2 col-md-4 col-sm-6 life-box">box6
+            <div class="life-square">box6
             </div>
+            <div class="life-square">box7
             </div>
-            <hr>
+            <div class="life-square">box8
+            </div>
+            <div class="life-square">box9
+            </div>
+            <div class="life-square">box10
+            </div>
+            <div class="life-square">box11
+            </div>
+            <div class="life-square">box12
+            </div>
+            <!-- /.container -->
         </div>
-        <!-- /.container -->
     </div>
     <!-- /.content-section-b -->
     {% endif %}
-{% endfor %}
+    {% endfor %}
 </section>
