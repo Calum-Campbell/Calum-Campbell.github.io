@@ -220,6 +220,9 @@ p.copyright {
 .skills-symbol {
     height: 120px;
     width: auto; 
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
 }
 
 .skills-info h3 {
