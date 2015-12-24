@@ -232,21 +232,30 @@ p.copyright {
 }
 
 .vairlo {
-    background-image: url(../img/projectImages/vairlo1.png);
+    background-image: url(../img/projectImages/vairloTitle.png);
     background-size: 342px auto;
     background-repeat: no-repeat;
+    background-position-x: 50%;
+    background-position-y: 50%;
 
 }
 
 .cause {
-    background-image: url(../img/projectImages/cause.png);
+    background-image: url(../img/projectImages/causeTitle.png);
     background-size: 300px auto;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    background-position-y: 50%;
+
 
 }
 
 .meEmoji {
-    background-image: url(../img/projectImages/meEmoji.png);
+    background-image: url(../img/projectImages/meEmojiTitle.png);
     background-size: 300px auto;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    background-position-y: 50%;
 
 }
 
