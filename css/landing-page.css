@@ -231,6 +231,8 @@ p.copyright {
 
 .skills-info ul{
     list-style-type: none;
+    margin-left: -30px;
+    padding-top: 15px;
     /*background-color: #e7e7e7;*/
 }
 
