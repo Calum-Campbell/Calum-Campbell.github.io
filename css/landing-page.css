@@ -219,13 +219,18 @@ p.copyright {
 
 .skills-symbol {
     height: 120px;
-    width: auto;
+    width: auto; 
+}
+
+.skills-info h3 {
+    text-align: center;
 }
 
 .skills-info ul{
     list-style-type: none;
-    background-color: #e7e7e7;
+    /*background-color: #e7e7e7;*/
 }
+
 
 .no-pad {
     padding: 0px;
