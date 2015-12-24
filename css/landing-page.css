@@ -226,3 +226,20 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+
+.skills-symbol {
+    height: 120px;
+    width: auto;
+}
+
+.skills-info ul{
+    list-style-type: none;
+    background-color: #e7e7e7;
+}
+
+.no-pad {
+    padding: 0px;
+}
+
+
