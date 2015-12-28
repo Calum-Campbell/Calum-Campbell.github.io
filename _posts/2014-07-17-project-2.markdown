@@ -1,0 +1,13 @@
+---
+title: Vairlo
+subtitle: Full Stack Ruby on Rails App
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: November 2015
+description: A full stack Ruby on Rails web application for bicycle lending and renting in London (think AirBnb for bikes!).  App allowed users to find available bikes to rent in locations around London and use a booking system to reserve them. 
+
+---

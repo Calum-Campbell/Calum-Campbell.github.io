@@ -1,0 +1,12 @@
+---
+title: MeEmoji!
+subtitle: JavaScript Memory Game
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+alt: image-alt
+project-date: September 2015
+description: MeEmoji! is a JavaScript memory game that utilises the beauty of Emoji's.
+---

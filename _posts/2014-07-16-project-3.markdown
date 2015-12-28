@@ -1,0 +1,13 @@
+---
+title: Newsroom
+subtitle: News Application with Social media Commentary
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: November 2014
+description: TO DO
+
+---

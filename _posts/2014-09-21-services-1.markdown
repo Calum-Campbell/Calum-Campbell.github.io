@@ -1,7 +1,0 @@
----
-layout: default
-img: ipad.png
-category: projects
-title: Recent Projects
-description: |
----

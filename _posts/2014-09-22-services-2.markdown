@@ -1,8 +1,0 @@
----
-layout: default
-img: dog.png
-category: Services
-title: When I'm not developing
-description: |
----
-

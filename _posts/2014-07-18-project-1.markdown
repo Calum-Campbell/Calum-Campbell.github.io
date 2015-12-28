@@ -1,0 +1,13 @@
+---
+title: Cause
+subtitle: MEAN stack mobile Charity site
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: December 2015
+description: Mean stack application that connects individuals looking for grass roots charitable projects from around the world to donate to and be involved in. The concept involves users donating a set amount a month to the application and each month finding projects that they are interested in to donate to.
+
+---
