@@ -655,14 +655,13 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url(img/map-image.png);
+    background-color: #F7F7F7;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: black;
 }
 
 section#contact .form-group {
@@ -878,4 +877,9 @@ body {
 
 a.navbar-brand.page-scroll.nav-logo{
     padding: 0;
+}
+
+.contact-info li{
+    color: black;
+    padding: 10px;
 }

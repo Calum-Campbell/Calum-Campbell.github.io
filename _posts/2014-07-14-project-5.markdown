@@ -6,8 +6,8 @@ github-link: https://github.com/Calum-Campbell/cause-project
 website-link: tba
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: hassifier.png
+thumbnail: hassifier.png
 alt: image-alt
 project-date: December 2014
 description: A 24 hour hackathon project that revolutionises placeholder images used when developing websites. Make any member of the WDI-16 class more Hass-like with a simple URL change. <br><br><strong>Tech</strong> - JQuery, Node.js, Heroku, angular. 
