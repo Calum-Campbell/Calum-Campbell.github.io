@@ -2,6 +2,8 @@
 title: Hassify
 subtitle: 24 hour Hackathon Project
 layout: default
+github-link: https://github.com/Calum-Campbell/cause-project
+website-link: tba
 modal-id: 5
 date: 2014-07-14
 img: startup-framework.png

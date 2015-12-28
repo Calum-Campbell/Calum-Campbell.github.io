@@ -2,6 +2,8 @@
 title: Newsroom
 subtitle: News Application with Social media Commentary
 layout: default
+github-link: https://github.com/Calum-Campbell/cause-project
+website-link: tba
 modal-id: 3
 date: 2014-07-16
 img: golden.png
