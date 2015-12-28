@@ -8,5 +8,5 @@ img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
 project-date: September 2015
-description: MeEmoji! is a JavaScript memory game that utilises the beauty of Emoji's.
+description: MeEmoji! is a JavaScript memory game that utilises the beauty of Emoji's. <br><br><strong>Tech</strong> - Javascript, Heroku, HTML, css. 
 ---

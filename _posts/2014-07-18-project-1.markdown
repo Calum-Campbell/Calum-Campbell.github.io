@@ -8,6 +8,5 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: December 2015
-description: Mean stack application that connects individuals looking for grass roots charitable projects from around the world to donate to and be involved in. The concept involves users donating a set amount a month to the application and each month finding projects that they are interested in to donate to.
-
+description: Mean stack application that connects individuals looking for grass roots charitable projects from around the world to donate to and be involved in. The concept involves users donating a set amount a month to the application and each month finding projects that they are interested in to donate to.<br><br><strong>Tech</strong> - MongoDB, AngularJS, ExpressJS,Node.js, bootstrap, Bower and the globalGiving.org API.
 ---

@@ -8,6 +8,5 @@ img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: November 2015
-description: A full stack Ruby on Rails web application for bicycle lending and renting in London (think AirBnb for bikes!).  App allowed users to find available bikes to rent in locations around London and use a booking system to reserve them. 
-
+description: A full stack Ruby on Rails web application for bicycle lending and renting in London (think AirBnb for bikes!).  App allowed users to find available bikes to rent in locations around London and use a booking system to reserve them. <br><br><strong>Tech</strong> - Ruby on Rails, JavaScript, jQuery, GoogleMaps API, Geocoding, SASS, Bookable (Ruby gem), Foundation, AWS and Heroku. 
 ---

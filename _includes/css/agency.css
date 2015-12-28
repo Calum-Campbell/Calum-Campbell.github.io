@@ -868,5 +868,13 @@ body {
 
 .no-bullet{
     list-style-type: none;
+}
 
+.nav-logo img {
+    height: 50px;
+    width: auto;
+}
+
+a.navbar-brand.page-scroll.nav-logo{
+    padding: 0;
 }
