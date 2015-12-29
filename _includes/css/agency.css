@@ -1010,6 +1010,15 @@ a.navbar-brand.page-scroll.nav-logo{
     margin-right: 12px;
 }
 
+.btn-cv {
+    background-color: #F7F7F7;
+    border: 2px solid black;
+    color: black;
+    padding: 20px;
+}
 
+.btn-cv:hover {
+    background-color: white;
+}
 
 

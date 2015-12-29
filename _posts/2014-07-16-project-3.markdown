@@ -1,15 +1,14 @@
 ---
-title: Newsroom
-subtitle: News Application with Social media Commentary
+title: MeEmoji!
+subtitle: JavaScript Memory Game
 layout: default
-github-link: https://github.com/psbadewal/wdi_group_project_3
-website-link: tba
+github-link: https://github.com/Calum-Campbell/wdi-project-1
+website-link: http://peaceful-savannah-3782.herokuapp.com/
 modal-id: 3
-date: 2014-07-16
-img: newsroom.png
-thumbnail: newsroom.png
+date: 2014-07-15
+img: meEmojiMain.png
+thumbnail: meEmoji.png
 alt: image-alt
-project-date: November 2014
-description: A node and mongoDB application that uses the Guardian API, twitter API and Aylien API to create a rolling news website with social media commentary.
-
+project-date: September 2015
+description: My first ever web development project, MeEmoji! is a JavaScript memory game that utilises the beauty of Emoji's. <br><br><strong>Tech</strong> - Javascript, Heroku, HTML, css. 
 ---
