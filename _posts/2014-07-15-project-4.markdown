@@ -6,9 +6,9 @@ github-link: https://github.com/Calum-Campbell/wdi-project-1
 website-link: http://peaceful-savannah-3782.herokuapp.com/
 modal-id: 4
 date: 2014-07-15
-img: meEmoji.png
+img: meEmojiMain.png
 thumbnail: meEmoji.png
 alt: image-alt
 project-date: September 2015
-description: MeEmoji! is a JavaScript memory game that utilises the beauty of Emoji's. <br><br><strong>Tech</strong> - Javascript, Heroku, HTML, css. 
+description: My first ever web development project, MeEmoji! is a JavaScript memory game that utilises the beauty of Emoji's. <br><br><strong>Tech</strong> - Javascript, Heroku, HTML, css. 
 ---
