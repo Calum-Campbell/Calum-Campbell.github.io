@@ -209,7 +209,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: black;
 }
 
 .navbar-default .nav li a:hover,
@@ -253,7 +253,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: white;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -263,10 +263,10 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: white;
+    color: black;
     background-attachment: scroll;
     /*background-image: url(img/header-bg.jpg);*/
-    background-image: url(img/personal/bike-gears.jpg);
+    background-image: url(img/personal/bike-wall.jpeg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -274,7 +274,10 @@ header {
     background-size: cover;
     -o-background-size: cover;
 }
-
+header p{
+    background-color: white;
+    background-opacity: 0.4;
+}
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;

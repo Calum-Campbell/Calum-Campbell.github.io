@@ -2,8 +2,8 @@
 title: Vairlo
 subtitle: Full Stack Ruby on Rails App
 layout: default
-github-link: https://github.com/Calum-Campbell/cause-project
-website-link: tba
+github-link: https://github.com/Calum-Campbell/wdi-project-2
+website-link: http://vairlo.herokuapp.com/
 modal-id: 2
 date: 2014-07-17
 img: vairlo.png

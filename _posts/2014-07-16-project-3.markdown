@@ -2,14 +2,14 @@
 title: Newsroom
 subtitle: News Application with Social media Commentary
 layout: default
-github-link: https://github.com/Calum-Campbell/cause-project
+github-link: https://github.com/psbadewal/wdi_group_project_3
 website-link: tba
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: newsroom.png
+thumbnail: newsroom.png
 alt: image-alt
 project-date: November 2014
-description: TO DO
+description: A node and mongoDB application that uses the Guardian API, twitter API and Aylien API to create a rolling news website with social media commentary.
 
 ---

@@ -2,8 +2,8 @@
 title: MeEmoji!
 subtitle: JavaScript Memory Game
 layout: default
-github-link: https://github.com/Calum-Campbell/cause-project
-website-link: tba
+github-link: https://github.com/Calum-Campbell/wdi-project-1
+website-link: http://peaceful-savannah-3782.herokuapp.com/
 modal-id: 4
 date: 2014-07-15
 img: meEmoji.png

@@ -2,8 +2,8 @@
 title: Hassify
 subtitle: 24 hour Hackathon Project
 layout: default
-github-link: https://github.com/Calum-Campbell/cause-project
-website-link: tba
+github-link: https://github.com/gvialpai/facemorph
+website-link: http://hassifier.herokuapp.com/
 modal-id: 5
 date: 2014-07-14
 img: hassifier.png
