@@ -354,7 +354,7 @@ section h3.section-subheading {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
-    height: 250px;
+    height: 300px;
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -896,5 +896,103 @@ a.navbar-brand.page-scroll.nav-logo{
     background-color: #FFFFFF;
 }
 
+.personal-image {
+    height: 215px;
+    width: 215px;
+    float:left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30%; /* = width for a 1:1 aspect ratio */
+    margin:1.46%;
+    overflow:hidden;
+}
 
+
+.personal-img-1 {
+    background-image: url(img/personal/harris.png);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.personal-img-2 {
+    background-image: url(img/personal/mountain.jpg);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.personal-img-3 {
+    background-image: url(img/personal/bikes.png);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.personal-img-4 {
+    background-image: url(img/personal/glasto.jpg);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.personal-img-5 {
+    background-image: url(img/personal/kenya.png);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.personal-img-6 {
+    background-image: url(img/personal/london.png);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.personal-img-7 {
+    background-image: url(img/personal/slovenia.jpeg);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.personal-img-8 {
+    background-image: url(img/personal/berlin.jpg);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.margin-fix li {
+    margin-left: -35px;
+}
+
+.margin-top {
+    margin-top: 50px;
+}
 
