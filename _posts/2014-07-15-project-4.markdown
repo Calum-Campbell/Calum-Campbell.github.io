@@ -6,7 +6,7 @@ github-link: https://github.com/psbadewal/wdi_group_project_3
 website-link: tba
 modal-id: 4
 date: 2014-07-16
-img: newsroom.png
+img: newsroomMain.png
 thumbnail: newsroom.png
 alt: image-alt
 project-date: November 2014

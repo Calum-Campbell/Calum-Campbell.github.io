@@ -7,7 +7,7 @@ website-link: http://peaceful-savannah-3782.herokuapp.com/
 modal-id: 3
 date: 2014-07-15
 img: meEmojiMain.png
-thumbnail: meEmoji.png
+thumbnail: meEmojiMain.png
 alt: image-alt
 project-date: September 2015
 description: My first ever web development project, MeEmoji! is a JavaScript memory game that utilises the beauty of Emoji's. <br><br><strong>Tech</strong> - Javascript, Heroku, HTML, css. 

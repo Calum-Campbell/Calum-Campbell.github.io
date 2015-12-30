@@ -1,0 +1,15 @@
+---
+title: Your Next Project?
+subtitle: Could I help you? Contact me!
+layout: default
+github-link: https://calumjcampbell.com
+website-link: https://calumjcampbell.com
+modal-id: 6
+date: 2014-07-14
+img: question.png
+thumbnail: question.png
+alt: image-alt
+project-date: December 2014
+description: If you are looking for a Full Stack Web Developer for your project or company please get in touch. 
+
+---
