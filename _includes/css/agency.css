@@ -354,7 +354,7 @@ section h3.section-subheading {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
-    height: 300px;
+    max-height: 280px;
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -364,12 +364,12 @@ section h3.section-subheading {
     max-width: 400px;
 }
 
-img.desaturate { 
+.desaturate { 
 -webkit-filter: grayscale(100%);
 filter: grayscale(100%);
 }
 
-img.desaturate:hover{
+.desaturate:hover{
     filter: none;
     -webkit-filter: grayscale(0%);
 }
@@ -1022,4 +1022,16 @@ a.navbar-brand.page-scroll.nav-logo{
     color: black;
 }
 
+
+.prt-img-box {
+    background-color: white;
+    height: 150px;
+    width: auto;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;   
+}
 

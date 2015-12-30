@@ -1,6 +1,6 @@
 ---
 title: Newsroom
-subtitle: News Application with Social media Commentary
+subtitle: News with social commentary
 layout: default
 github-link: https://github.com/psbadewal/wdi_group_project_3
 website-link: tba
