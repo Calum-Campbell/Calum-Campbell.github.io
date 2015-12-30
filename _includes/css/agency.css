@@ -192,7 +192,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle {
     border-color: #{{ site.color.primary }};
-    background-color: #{{ site.color.primary }};
+    background-color: #1a242f;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -1019,6 +1019,7 @@ a.navbar-brand.page-scroll.nav-logo{
 
 .btn-cv:hover {
     background-color: white;
+    color: black;
 }
 
 
