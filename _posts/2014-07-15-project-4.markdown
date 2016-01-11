@@ -10,6 +10,6 @@ img: newsroomMain.png
 thumbnail: newsroom.png
 alt: image-alt
 project-date: November 2014
-description: A node and mongoDB application that uses the Guardian API, twitter API and Aylien API to create a rolling news website with social media commentary.<br><br><strong>Tech</strong> - JQuery, Node.js, Heroku, Socket.io, MongoDb, Express, The Guardian API, Aylian API. 
+description: A node and mongoDB application that uses the Guardian API, twitter API and Aylien API to create a rolling news website with social media commentary.<br><br><strong>Tech</strong> - JQuery, Node.js, Heroku, Socket.io, MongoDb, Express, The Guardian API, Aylian API . 
 
 ---
