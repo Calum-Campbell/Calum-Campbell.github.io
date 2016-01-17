@@ -10,5 +10,5 @@ img: causeImage.png
 thumbnail: causeThumbnail.png
 alt: image-alt
 project-date: December 2015
-description: Mean stack application that connects individuals looking for grass roots charitable projects from around the world to donate to and be involved in. The concept involves users donating a set amount a month to the application and each month finding projects that they are interested in to donate to.<br><br><strong>Tech</strong> - MongoDB, AngularJS, ExpressJS,Node.js, bootstrap, Bower and the globalGiving.org API.<br><u>I am currently migrating this to Ionic to make it into a Hybrid application.</u>
+description: <u class="red">Currently Issues with Performance (Under Construction)</u><br>Mean stack application that connects individuals looking for grass roots charitable projects from around the world to donate to and be involved in. The concept involves users donating a set amount a month to the application and each month finding projects that they are interested in to donate to.<br><br><strong>Tech</strong> - MongoDB, AngularJS, ExpressJS,Node.js, bootstrap, Bower and the globalGiving.org API.<br><u>I am currently migrating this to Ionic to make it into a Hybrid application.</u>
 ---
